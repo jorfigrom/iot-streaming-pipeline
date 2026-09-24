@@ -103,9 +103,6 @@ from(bucket: "telemetry")
 
 ## 📱 Screenshots
 
-*(Add your screenshots here)*
-* `![Grafana Dashboard](./images/grafana.png)`
 * <img width="1252" height="796" alt="image" src="https://github.com/user-attachments/assets/eb44912d-06a4-4f37-95d3-bae93cea2904" />
 
-* `![Telegram Alerts](./images/telegram.png)`
 * <img width="475" height="475" alt="image" src="https://github.com/user-attachments/assets/fa01131b-5089-4224-a9a8-1f24031b9a78" />
